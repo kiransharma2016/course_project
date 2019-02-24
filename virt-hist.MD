@@ -8,6 +8,13 @@ hypervisor based ( complete) \
 HCM -- lparing \
 containerised basically not having anohter separate hardware emulcated instead sharing the same hardware 
 
+### starting point 
+### ================
+cp-40 --1964 \
+cp-67 --1967 \
+
+### Era of logical partitioning (LPAR and chroot) 1972-1982
+lpar 
 
 ### Kernel base virtualisation 
 ### ==========================
@@ -15,9 +22,6 @@ kvm \
 docker \
 lxc/lxd 
 
-### starting point 
-### ================
-cp-40 --1964 \
-cp-67 --1967 \
-lpar 
 
+### Cloud Era
+### ==========
