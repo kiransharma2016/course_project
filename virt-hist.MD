@@ -26,3 +26,13 @@ lxc/lxd
 
 ### Cloud Era
 ### ==========
+
+
+
+## microservices
+
+### microservices security 
+https://www.youtube.com/watch?v=VtUQINsYXDM
+### microservices authentication 
+
+https://www.youtube.com/watch?v=SLc3cTlypwM
