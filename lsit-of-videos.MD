@@ -7,6 +7,7 @@ Bastion Host \
 separate account for each env and most probably each business units 
 eg each business \
 min security \
-do not use master account , create admin account \
+do not use master account , create admin account 
+
 
 
