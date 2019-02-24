@@ -1,4 +1,4 @@
-## history of virtualisation 
+#### History of virtualisation 
 what ? 
 Disk /strage
 memory 
@@ -7,13 +7,13 @@ whole hardware emulation
 file system/os eg chroot or jail 
 hyppervisor \
 
-## Kernel base virtualisation 
+#### Kernel base virtualisation 
 
 kvm \
 docker \
 lxc/lxd 
 
-## starting point 
+#### starting point 
 
 cp-40 --1964
 cp-67 --1967
