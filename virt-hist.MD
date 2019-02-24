@@ -15,8 +15,8 @@ docker \
 lxc/lxd 
 
 #### starting point 
-
-cp-40 --1964
-cp-67 --1967
-lpar
+#### ================
+cp-40 --1964 \
+cp-67 --1967 \
+lpar 
 
