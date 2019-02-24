@@ -1,11 +1,12 @@
 #### History of virtualisation 
-what ? 
-Disk /strage
-memory 
-cpu 
-whole hardware emulation 
-file system/os eg chroot or jail 
-hyppervisor \
+what kind of virtualisation? mostly it is hardeware virtualisation. \
+Disk /strage/memory /cpu \
+whole hardware virtualisation \
+file system/os eg chroot or jail  \
+hypervisor based ( complete) \
+HCM -- lparing \
+containerised basically not having anohter separate hardware emulcated instead sharing the same hardware 
+
 
 #### Kernel base virtualisation 
 
