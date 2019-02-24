@@ -15,3 +15,6 @@ creating domain in route53 in aws
 
 ## autohealing website
 https://medium.com/@arslan70/how-to-create-a-scalable-and-self-healing-architecture-on-aws-f10b8233e24e
+
+## microservices security 
+https://www.youtube.com/watch?v=VtUQINsYXDM
