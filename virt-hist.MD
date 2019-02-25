@@ -36,3 +36,7 @@ https://www.youtube.com/watch?v=VtUQINsYXDM
 ### microservices authentication 
 
 https://www.youtube.com/watch?v=SLc3cTlypwM
+
+
+### what is docker ?
+https://www.slideshare.net/JooPedroHarbs/work-shop-an-introduction-to-the-docker-ecosystem?qid=1c8ceeb7-18a3-4cbb-a20d-c9fb722364da&v=&b=&from_search=45
