@@ -28,6 +28,9 @@ lxc/lxd
 ### ==========
 
 
+###  containerization 
+https://www.upwork.com/hiring/development/what-is-containerization-and-is-it-the-right-solution-for-you/
+
 
 ## microservices
 
@@ -36,6 +39,8 @@ https://www.youtube.com/watch?v=VtUQINsYXDM
 ### microservices authentication 
 
 https://www.youtube.com/watch?v=SLc3cTlypwM
+
+
 
 
 ### what is docker ?
