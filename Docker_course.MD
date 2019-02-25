@@ -5,6 +5,6 @@ https://2018.dockercon.com/hands-on-labs/
 https://dockercon2018.hubs.vidyard.com/watch/YppHjLzVXAoF2PaRg3oQRs
 
 
-### Moubt 
-tmpfs vs bind mount 
+### Mount 
+tmpfs vs bind mount \
 https://wiki.archlinux.org/index.php/Tmpfs
