@@ -9,9 +9,8 @@ eg each business \
 min security \
 do not use master account , create admin account \
 creating domain ( in godaddy and setup in aws \
-creating domain in route53 in aws 
-
-
+creating domain in route53 in aws \
+shared security model 
 
 ## autohealing website
 https://medium.com/@arslan70/how-to-create-a-scalable-and-self-healing-architecture-on-aws-f10b8233e24e
