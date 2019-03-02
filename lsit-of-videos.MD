@@ -2,12 +2,11 @@
 Aws global infrastructure \
 Getting started with AWS \
 pricing model \
-MFA \
 Bastion Host \
 separate account for each env and most probably each business units 
 eg each business \
 principle of least privilleage \
-do not use master account , create admin account \
+securing master account , create admin account, apply mfa etc \
 creating domain ( in godaddy and setup in aws) \
 creating domain in route53 in aws \
 shared security model \
