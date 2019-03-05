@@ -32,10 +32,10 @@ This courses gives a historical evolution, current states and an introduction to
 1.2 current state of container platforms, their pros and cones
 
 
-2. Docker 
-=========
-2.1 Introduction to docker 
-2.2 How it works
+##### 2. Docker 
+###### =========
+2.1 Introduction to docker \
+2.2 How it works \
 demo 
 
 2.3 Life cycle
