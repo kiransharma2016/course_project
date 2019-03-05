@@ -1,6 +1,6 @@
 For each of these courses, have these outline 
 
-Learning Objects \
+Learning Objectives
 
 prerequisite \
 	software/hardware and \
