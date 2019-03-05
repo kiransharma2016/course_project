@@ -16,17 +16,17 @@ Course outlines
 
 
 
-=============================================== \
-|1. Introduction to Containerization and Docker| \
-=============================================== 
+#### =============================================== 
+### |1. Introduction to Containerization and Docker| 
+#### =============================================== 
 
 1. Introudction to containerization
 
 This courses gives a historical evolution, current states and an introduction to Docker. It discusses how docker works, what are its components etc. Finally, it also list the other tools useful running docker based containers
 
 
-1.1. Hist and evolution
-=======================
+### 1.1. Hist and evolution
+#### =======================
 1.1. evolution and history of container and their characteristics
 
 1.2 current state of container platforms, their pros and cones
