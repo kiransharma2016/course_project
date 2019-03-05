@@ -1,17 +1,18 @@
-For each of these courses
-Learning Objects
+For each of these courses, have these outline 
 
-prerequisite
-	software/hardware and 
-        skills 
+Learning Objects \
+
+prerequisite \
+	software/hardware and \
+        skills \
 	software/hardware
 
-Learning outcome 
+Learning outcome \
 	skills 
 	
 Why should you learn from us? Why trust me to teach you the best ways to use Docker? (Hi, I'm Bret, please allow me to talk about myself for a sec):
 
-Course outlines
+##### Course outlines
 
 
 
