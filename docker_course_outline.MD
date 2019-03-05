@@ -60,11 +60,11 @@ kubernetes
 openshift 
 mesos 
 
-4. Other Tools 
-etcd stores
+#### 4. Other Tools 
+etcd stores \
 promethus 
 
-##### ================================================================================================================
+######  ============================================================================================================
 #### 2. Docker Level II: Intermediate and Advance Docker 
 
 All about isolated container not linked, not network but all configuration including volume, dockerd.  Does not contain anything about compose or swarm 
