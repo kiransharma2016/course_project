@@ -65,21 +65,21 @@ etcd stores
 promethus 
 
 ##### ================================================================================================================
-#### 2. Docker Level I: Intermediate and Advance Docker 
+#### 2. Docker Level II: Intermediate and Advance Docker 
 
 All about isolated container not linked, not network but all configuration including volume, dockerd.  Does not contain anything about compose or swarm 
 
 
-##### 3. Docker Level II: advance docker and docker-Compose  
+##### 3. Docker Level III: advance docker and docker-Compose  
 
 advanced docker file, linked containers/network and compose, use etcd for container in multi host 
 
 Does not touch about swarm 
 
 
-##### 4. Docker Level III: Orchestration ---baisc about orchestration and all about Swarm    
-advanced in security 
-any other advanced 
+##### 4. Docker Level IV: Orchestration ---baisc about orchestration and all about Swarm    
+advanced in security \
+any other advanced \
 swarm 
 
 
