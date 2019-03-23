@@ -5,3 +5,7 @@ https://docs.contentcontroller.com/self-hosting/aws/VPC.html
 
 #### 
 https://aws.amazon.com/architecture/icons/
+
+
+##
+https://aws.amazon.com/blogs/apn/amazon-vpc-for-on-premises-network-engineers-part-two/
