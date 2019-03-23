@@ -19,3 +19,7 @@ https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/deployment/active
 ##
 
 https://www.google.com/search?q=aws+direct+connect+visio&rlz=1C1CHBF_enUS737US737&tbm=isch&source=iu&ictx=1&fir=0_R0PMhN4umMbM%253A%252CUDPe9FaVyuATsM%252C_&vet=1&usg=AI4_-kQw126SDU_vlFVHxZ6CHfDcDuLGKg&sa=X&ved=2ahUKEwj9r67XuZfhAhVMrlkKHTkwCmEQ9QEwDXoECAkQBA#imgrc=0_R0PMhN4umMbM:
+
+
+## aws resources
+https://docs.contentcontroller.com/self-hosting/aws/LoadBalancer.html
