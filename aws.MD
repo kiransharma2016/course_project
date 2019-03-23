@@ -9,3 +9,7 @@ https://aws.amazon.com/architecture/icons/
 
 ##
 https://aws.amazon.com/blogs/apn/amazon-vpc-for-on-premises-network-engineers-part-two/
+
+
+## visio stencil
+https://www.conceptdraw.com/How-To-Guide/aws-icons-2
