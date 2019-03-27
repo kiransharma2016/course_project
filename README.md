@@ -23,3 +23,6 @@ https://www.google.com/search?q=aws+direct+connect+visio&rlz=1C1CHBF_enUS737US73
 
 ## aws resources
 https://docs.contentcontroller.com/self-hosting/aws/LoadBalancer.html
+
+## cloudformation
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/conditions-sample-templates.html
