@@ -13,3 +13,7 @@ https://aws.amazon.com/blogs/apn/amazon-vpc-for-on-premises-network-engineers-pa
 
 ## visio stencil
 https://www.conceptdraw.com/How-To-Guide/aws-icons-2
+
+
+## cloudformation 
+https://blog.boltops.com/2018/02/14/aws-cloudformation-declarative-infrastructure-code-tutorial
