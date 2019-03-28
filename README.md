@@ -26,3 +26,7 @@ https://docs.contentcontroller.com/self-hosting/aws/LoadBalancer.html
 
 ## cloudformation
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/conditions-sample-templates.html
+
+
+## direct connect diagram
+https://confluence.cornell.edu/display/CLOUD/AWS+Direct+Connect+Routing+Diagrams
