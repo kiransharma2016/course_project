@@ -30,3 +30,7 @@ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/conditions-sample
 
 ## direct connect diagram
 https://confluence.cornell.edu/display/CLOUD/AWS+Direct+Connect+Routing+Diagrams
+
+
+## all about data base admin
+http://db.geeksinsight.com/2019/02/25/weekend-rumblings-oraclekafka-learnings/
