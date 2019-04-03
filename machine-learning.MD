@@ -6,3 +6,5 @@ https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=987s
 https://www.youtube.com/watch?v=JeMP2x67rb0
 ## 10 hours video on fundamental of python
 https://www.youtube.com/watch?v=v_S64kldryc
+## 4 hours complete python course video
+https://www.youtube.com/watch?v=rfscVS0vtbw&t=1631s
