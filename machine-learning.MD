@@ -2,3 +2,5 @@
 https://www.youtube.com/watch?v=-58kO_zYUGE
 ## pythong learning video 6 hours
 https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=987s
+## python video
+https://www.youtube.com/watch?v=JeMP2x67rb0
