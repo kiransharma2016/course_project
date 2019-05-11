@@ -10,7 +10,7 @@ eg
 ansible-playbook -c local -i 'localhost,' playbook.yaml
 
 ## comments a line when not commented. 
-#### this comments swap line in fstab and also turn off swap 
+#### This comments swap line in fstab and also turn off swap 
 ---
 - name: Test \
   hosts: all \
@@ -27,6 +27,26 @@ ansible-playbook -c local -i 'localhost,' playbook.yaml
     - name: Disable swap \
       command: swapoff -a \
       when: ansible_swaptotal_mb > 0
+
+## selinux disabling and making it permissive 
+# tasks for disabling selinux
+- name: Install prerquisite lib for Selinux Ansible module \
+  yum: \
+    name: "{{item}}" \
+    state: latest \
+  with_items: \
+    - libselinux-python \
+    - libsemanage-python \
+
+- name: Disabling Selinux -- this will be implemented in the next reboot \
+  selinux: \
+    state: disabled \
+
+- name: Setting  SeLinux mode to permissive until the server gets rebooted  \
+  command: setenforce 0 \
+  ignore_errors: true \
+  changed_when: false \
+
 
 ## misc
  swapon --all \
