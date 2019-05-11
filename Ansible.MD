@@ -18,7 +18,7 @@ ansible-playbook -c local -i 'localhost,' playbook.yaml
   become: true \
   tasks: \
     - name: Comment out pipeline archive in fstab \
-      command: sed -i.bak '/^#/! s/^\(.*swap.*\)/#\1/g' /etc/fstab \
+      command: sed -i.bak '/^#/! s/^\(.*swap.*\)/#\1/g' /etc/fstab 
 
       args: \
         warn: false # set warn=false to prevent warning \
@@ -36,16 +36,16 @@ ansible-playbook -c local -i 'localhost,' playbook.yaml
     state: latest \
   with_items: \
     - libselinux-python \
-    - libsemanage-python \
+    - libsemanage-python 
 
 - name: Disabling Selinux -- this will be implemented in the next reboot \
   selinux: \
-    state: disabled \
+    state: disabled 
 
 - name: Setting  SeLinux mode to permissive until the server gets rebooted  \
   command: setenforce 0 \
   ignore_errors: true \
-  changed_when: false \
+  changed_when: false 
 
 
 ## misc
