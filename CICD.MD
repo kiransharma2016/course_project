@@ -6,3 +6,6 @@ https://wiki.jenkins.io/display/JENKINS/Distributed+builds
 
 ## jenkins pipeline example blog
 https://wilsonmar.github.io/jenkins2-pipeline/
+
+## CICD with kuberneter helm
+https://medium.com/@gajus/the-missing-ci-cd-kubernetes-component-helm-package-manager-1fe002aac680
