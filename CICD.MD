@@ -9,3 +9,6 @@ https://wilsonmar.github.io/jenkins2-pipeline/
 
 ## CICD with kuberneter helm
 https://medium.com/@gajus/the-missing-ci-cd-kubernetes-component-helm-package-manager-1fe002aac680
+
+## jenkins installation update blog
+https://mohitgoyal.co/2017/02/15/upgrade-jenkins-server-to-a-new-version/
