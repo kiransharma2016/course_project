@@ -12,3 +12,6 @@ https://medium.com/@gajus/the-missing-ci-cd-kubernetes-component-helm-package-ma
 
 ## jenkins installation update blog
 https://mohitgoyal.co/2017/02/15/upgrade-jenkins-server-to-a-new-version/
+
+## jenkins master /slave
+https://www.bogotobogo.com/DevOps/Jenkins/Jenkins_on_EC2_setting_up_master_slaves.php
