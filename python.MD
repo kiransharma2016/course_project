@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=iLHAKXQBOoA
 
 ## 10 hours video
 https://www.youtube.com/watch?v=v_S64kldryc&t=96s
+
+## urllib
+https://www.youtube.com/watch?v=LosIGgon_KM
