@@ -12,3 +12,7 @@ https://www.youtube.com/watch?v=8DvywoWv6fI&t=10169s
 
 ## urllib
 https://www.youtube.com/watch?v=LosIGgon_KM
+
+
+## tutorials 
+https://realpython.com/what-can-i-do-with-python/
