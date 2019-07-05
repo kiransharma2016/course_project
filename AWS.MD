@@ -17,3 +17,6 @@ https://medium.com/awesome-aws/aws-difference-between-application-load-balancer-
 
 ## AWS conprehensive 3 hours video
 https://www.youtube.com/watch?v=MmsoIcYrXJU
+
+## has other training as well
+https://www.youtube.com/watch?v=LX5lHYGFcnA
