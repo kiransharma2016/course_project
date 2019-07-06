@@ -17,3 +17,6 @@ https://www.youtube.com/watch?v=lZAoFs75_cs
 
 ## ethical hacker
 https://www.youtube.com/watch?v=gOUGXVFA2IQ
+
+## ethical hacking
+https://www.youtube.com/watch?v=xNvNZOT1rEc&list=PLYmNa3dW770L7qLx5vINs6O19NNf9DTWE
