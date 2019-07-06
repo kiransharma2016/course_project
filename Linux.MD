@@ -14,3 +14,6 @@ fi
 
 ## linux for hacker
 https://www.youtube.com/watch?v=lZAoFs75_cs
+
+## ethical hacker
+https://www.youtube.com/watch?v=gOUGXVFA2IQ
