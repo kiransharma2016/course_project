@@ -26,3 +26,6 @@ https://www.youtube.com/watch?v=LX5lHYGFcnA
 ## check hostname
  curl http://169.254.169.254/latest/meta-data/hostname
  curl http://169.254.169.254/latest/meta-data/local-hostname
+
+## AWS end to end in 3 hours
+https://www.youtube.com/watch?v=MmsoIcYrXJU&t=81s
