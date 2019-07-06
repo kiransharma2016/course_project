@@ -11,3 +11,6 @@ if [[ "${?}" -ne 0 ]]; then
    echo "The command was not successful"
    exit 1
 fi
+
+## linux for hacker
+https://www.youtube.com/watch?v=lZAoFs75_cs
