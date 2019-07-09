@@ -19,3 +19,6 @@ https://www.bogotobogo.com/DevOps/Jenkins/Jenkins_on_EC2_setting_up_master_slave
 
 ## 7 hours video on cicd
 https://www.youtube.com/watch?v=-VaVmb_UOC8
+
+## interesting video
+https://intellipaat.com/all-courses/big-data/
