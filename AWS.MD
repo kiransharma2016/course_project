@@ -29,3 +29,7 @@ https://www.youtube.com/watch?v=LX5lHYGFcnA
 
 ## AWS end to end in 3 hours
 https://www.youtube.com/watch?v=MmsoIcYrXJU&t=81s
+
+
+## resigning root volume in ec2
+https://dzone.com/articles/how-to-get-around-the-8gb-limit-on-root-volumes-in
