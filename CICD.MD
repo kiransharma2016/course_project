@@ -22,3 +22,7 @@ https://www.youtube.com/watch?v=-VaVmb_UOC8
 
 ## interesting video
 https://intellipaat.com/all-courses/big-data/
+
+
+##  10 hours video on devops 
+https://www.youtube.com/watch?v=JHoy3lDZOfY&t=42s
