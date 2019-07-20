@@ -30,3 +30,5 @@ https://www.youtube.com/watch?v=JHoy3lDZOfY&t=42s
 
 ## groovy
 https://www.guru99.com/groovy-tutorial.html
+## jenkins video
+https://www.youtube.com/watch?v=WWcijE7ifcA&list=PLzvRQMJ9HDiSaisKr7OnM4Fl7JXCDDcmt
