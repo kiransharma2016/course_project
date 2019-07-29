@@ -1,5 +1,6 @@
 # course_project
-list of projects
+
+This is a test of pull request
 
 
 ## AWS visio
