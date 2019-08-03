@@ -40,3 +40,6 @@ https://pages.awscloud.com/Deep-Dive-Into-Container-Networking_2019_0325-CON_OD.
 ## cloudformation 
 http://sudharsanpunniyakotti.blogspot.com/2017/07/cloudformation-with-lvm.html
 
+
+#### presigned url 
+https://www.youtube.com/watch?v=h1jP1D-GeBM
